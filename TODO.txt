@@ -1,0 +1,4 @@
+2. Ingest transaction log.
+3. Fix and merge KTR for active inactive users
+4. Fix Reporting
+5. Fix Alerting
